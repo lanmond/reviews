@@ -1,2 +1,3 @@
 # Amazon Customer Reviews
-shiny project
+Shiny App project
+By Lan Mond
